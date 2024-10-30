@@ -5,9 +5,9 @@
 <div align="center">
 🌟 Currently diving deep into:
 
-Web Development: Creating responsive and user-friendly applications using HTML, CSS, and JavaScript.
+Web Development: Learning how to creat responsive and user-friendly applications using HTML, CSS, and JavaScript.
 
-Backend Development: Building robust APIs with Node.js and Express, and exploring databases like SQL.
+Backend Development: Exploring databases like SQL.
 
 Data Structures & Algorithms: Sharpening my skills to tackle complex challenges and improve my coding efficiency.
 
